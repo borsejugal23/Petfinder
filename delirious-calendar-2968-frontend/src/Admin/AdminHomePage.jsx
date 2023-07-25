@@ -113,16 +113,16 @@ export const AdminHomePage = () => {
      getDogsData()
     }
           // Function to handle "Next" button click
-    const handleNextClick = () => {
-      setCurrentPage((prevPage) => prevPage + 1);
-      getDogsData()
-    };
+    // const handleNextClick = () => {
+    //   setCurrentPage((prevPage) => prevPage + 1);
+    //   getDogsData()
+    // };
         
-          // Function to handle "Previous" button click
-    const handlePreviousClick = () => {
-      setCurrentPage((prevPage) => prevPage - 1);
-      getDogsData()
-    };
+    //       // Function to handle "Previous" button click
+    // const handlePreviousClick = () => {
+    //   setCurrentPage((prevPage) => prevPage - 1);
+    //   getDogsData()
+    // };
 
 
     let getCatsData = ()=>{
@@ -133,16 +133,16 @@ export const AdminHomePage = () => {
         .catch((err)=>console.log(err))
     }
 
-    const handleCatsNext = () => {
-      setPage((prev) => prev + 1);
-      getCatsData()
-    };
+    // const handleCatsNext = () => {
+    //   setPage((prev) => prev + 1);
+    //   getCatsData()
+    // };
         
-          // Function to handle "Previous" button click
-    const handleCatsPrevious = () => {
-      setPage((prev) => prev - 1);
-      getCatsData()
-    };
+    //       // Function to handle "Previous" button click
+    // const handleCatsPrevious = () => {
+    //   setPage((prev) => prev - 1);
+    //   getCatsData()
+    // };
 
     const DeleteDogsData = (id)=>{
       axios.delete(`https://shy-erin-perch-kit.cyclic.app/dogs/delete/${id}`)
