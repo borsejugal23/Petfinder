@@ -26,35 +26,47 @@ The main goal of Petfinder is to help connect adoptable pets with potential adop
 
 
 # Landing page
-![Screenshot (131)](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/e1e3bd40-61b5-4aee-b4a3-206d3646d54b)
 
 
-# Login section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/bfbad01e-09e0-467b-99aa-40c02cdc9c9d)
 
 
-# Games Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/2ec3d836-c32e-435e-92b2-263b00fab47a)
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/9ec8c537-1917-4659-9383-545e61084de4)
+![petconnect_one](https://github.com/borsejugal23/Petfinder/assets/115457172/e0e5dca7-deff-4bda-8dac-1635186afb1c)
 
 
-# Movies Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/e4707806-be7d-47cd-a424-d79b65481f3c)
+# Login Page
 
 
-# Cart Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/190c2e15-bfd0-4cb8-9c31-e0f36e983e4f)
+
+![petconnect_four](https://github.com/borsejugal23/Petfinder/assets/115457172/41e96638-649f-4fc1-ba9e-a127e5780dc1)
 
 
-# Admin Login Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/3faedb8b-637b-40d4-b2bc-c290fcb4735b)
+
+# Pets
 
 
-# Admin Dashboard section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/a2b0ec5b-2bf2-46bd-aa94-abbe99096d29)
+
+![petconnect_six](https://github.com/borsejugal23/Petfinder/assets/115457172/0d240667-f4cd-4d03-880e-1d4f1a5e1f17)
 
 
-# Payment page
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/706e29d6-6621-4ba2-bcad-bd18e1ba2262)
 
+
+
+
+
+# Admin Login Page
+
+
+
+![2023-09-14 (4)](https://github.com/borsejugal23/Petfinder/assets/115457172/1ecb488c-1709-4dac-bd25-e6e8edd6fb9f)
+
+
+
+
+# Admin Dashboard 
+
+
+
+
+
+![2023-09-14 (5)](https://github.com/borsejugal23/Petfinder/assets/115457172/a18541a0-182c-44ae-9f70-06571957afda)
 
