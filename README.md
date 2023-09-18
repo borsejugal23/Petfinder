@@ -5,8 +5,8 @@ The main goal of Petfinder is to help connect adoptable pets with potential adop
 ## Team Members:-
     Chakresh Jha	(Team lead)
     Jugal Borse
-    Shreekant Totla
-    Neelesh kumar
+    Hariom Verma
+    Neelesh Kumar
 
 
 
